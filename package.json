@@ -1,0 +1,9 @@
+{
+  "name": "NodeChatSystem",
+  "version": "0.0.1",
+  "description": "Realtime chat system for Tutorialzine.com",
+"scripts": {
+  "start": "node server.js"
+},
+"main": "server.js"
+}
